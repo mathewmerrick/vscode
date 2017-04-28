@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 2,
+    "editor.fontFamily": "'Inconsolata', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "[cpp]": {
+        "editor.quickSuggestions": false
+    },
+    "[c]": {
+        "editor.quickSuggestions": false
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "clang-format.style": "Google",
+    "C_Cpp.clang_format_style": "Google",
+    "C_Cpp.clang_format_formatOnSave": true
+}
